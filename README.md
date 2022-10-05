@@ -1,0 +1,2 @@
+# Stock-Market-Prediction-Using-LSTM
+Prediction of Stock Market by taking a sample of past 20 years Tata Motors dataset and then dividing it into training and testing data in order predict the stock market throuht evaluation of the model. I am using LSTM(Long Short Term Memory) concept from Deep Learning as the concept of epochs is very helpful in reducing the loss for giving us the most accurate prediction. 
